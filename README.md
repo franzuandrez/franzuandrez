@@ -5,6 +5,7 @@
 I'm a passionate  software developer from [Guatemala](https://www.google.com/maps/place/Guatemala/@15.64,-91z/)
 
 I consider myself   curious  and a continuous learner, I always try to improve things, so on my spare time I like try and learning new things mostly tech stuff.
+
 Hobbies? Of course, I love to skate, specifically with inline skates.
 
 
