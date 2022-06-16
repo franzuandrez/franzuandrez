@@ -3,7 +3,7 @@
 ======
 
 I'm a passionate  software developer from [Guatemala](https://www.google.com/maps/place/Guatemala/@15.64,-91z/)
-currently focused on JavaScript ecosystem.
+currently focused on learning JavaScript stuff, working with data at [Ministerio de Salud Pública y Asistencia Social](https://www.mspas.gob.gt/)
 
 I consider myself   curious  and a continuous learner, I always try to improve things, so on my spare time I like try and learning new things mostly tech stuff.
 
